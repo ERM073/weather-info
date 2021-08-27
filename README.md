@@ -20,3 +20,5 @@ APIはここから取得できます。(無料の会員登録が必要です)
 
 https://home.openweathermap.org/users/sign_up
 
+
+![スクリーンショット (48)](https://user-images.githubusercontent.com/65692907/131133103-c2b07869-76ad-44e1-9101-f28ab57e6ef5.png)
