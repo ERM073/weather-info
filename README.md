@@ -17,3 +17,5 @@ OpenWeatherMapのAPIを使用して指定した世界各地の都市の天気を
 APIはここから取得できます。(無料の会員登録が必要です)
 
 https://home.openweathermap.org/users/sign_up
+
+![3idADiKkaCQiRUY1630061042_1630061067](https://user-images.githubusercontent.com/65692907/131132804-98fc6c2e-4117-4239-8de0-0b50cc4b2976.png)
